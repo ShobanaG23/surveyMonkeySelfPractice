@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="regressionSuite">
+
+<listeners>
+	<listener class-name ="com.surveyMonkey.Utilities.ExtentReportManager"/>
+</listeners>
+
+<parameter name ="browserName" value= "chrome"/>
+
+  <test name = "TC001_verifyLoginTest" >
+    <classes>
+      <class name="com.surveyMonkey.TestCase.TC001_verifyLoginTest"/>
+     </classes>
+  </test> 
+  
+  <test name = "TC002_LoginTestCase">
+    <classes>  
+      <class name="com.surveyMonkey.TestCase.TC002_LoginTestCase"/>
+    </classes>
+  </test> 
+</suite> 

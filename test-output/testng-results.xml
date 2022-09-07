@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="regressionSuite" duration-ms="31211" started-at="2022-09-06T21:11:57Z" finished-at="2022-09-06T21:12:29Z">
+    <groups>
+    </groups>
+    <test name="TC001_verifyLoginTest" duration-ms="9519" started-at="2022-09-06T21:11:57Z" finished-at="2022-09-06T21:12:07Z">
+      <class name="com.surveyMonkey.TestCase.TC001_verifyLoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.surveyMonkey.TestCase.TC001_verifyLoginTest@add4fb]" name="setup" is-config="true" duration-ms="4297" started-at="2022-09-06T21:11:57Z" finished-at="2022-09-06T21:12:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="clickLoginTest()[pri:0, instance:com.surveyMonkey.TestCase.TC001_verifyLoginTest@add4fb]" name="clickLoginTest" duration-ms="4319" started-at="2022-09-06T21:12:02Z" finished-at="2022-09-06T21:12:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.surveyMonkey.TestCase.TC001_verifyLoginTest@add4fb]" name="teardown" is-config="true" duration-ms="755" started-at="2022-09-06T21:12:06Z" finished-at="2022-09-06T21:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.surveyMonkey.TestCase.TC001_verifyLoginTest -->
+    </test> <!-- TC001_verifyLoginTest -->
+    <test name="TC002_LoginTestCase" duration-ms="21345" started-at="2022-09-06T21:12:07Z" finished-at="2022-09-06T21:12:29Z">
+      <class name="com.surveyMonkey.TestCase.TC002_LoginTestCase">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.surveyMonkey.TestCase.TC002_LoginTestCase@1eb2dda]" name="setup" is-config="true" duration-ms="4194" started-at="2022-09-06T21:12:07Z" finished-at="2022-09-06T21:12:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.surveyMonkey.TestCase.TC002_LoginTestCase@1eb2dda]" name="logintest" duration-ms="16347" started-at="2022-09-06T21:12:11Z" finished-at="2022-09-06T21:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.surveyMonkey.TestCase.TC002_LoginTestCase@1eb2dda]" name="teardown" is-config="true" duration-ms="800" started-at="2022-09-06T21:12:28Z" finished-at="2022-09-06T21:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.surveyMonkey.TestCase.TC002_LoginTestCase -->
+    </test> <!-- TC002_LoginTestCase -->
+  </suite> <!-- regressionSuite -->
+</testng-results>

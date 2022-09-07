@@ -1,0 +1,104 @@
+[INFO ] 06-09-2022 11:27:04.234 TC001_verifyLoginTest - chrome browser is launched
+[INFO ] 06-09-2022 11:27:09.622 TC001_verifyLoginTest - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 11:27:17.677 TC001_verifyLoginTest - login page title is :SurveyMonkey - Log in
+[INFO ] 06-09-2022 11:27:17.677 TC001_verifyLoginTest - login page is opened
+[INFO ] 06-09-2022 11:27:18.902 TC001_verifyLoginTest - Survey monkey application is closed
+[INFO ] 06-09-2022 11:27:20.723 TC002_LoginTestCase - chrome browser is launched
+[INFO ] 06-09-2022 11:27:26.201 TC002_LoginTestCase - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 11:27:34.070 TC002_LoginTestCase - login link is clicked
+[INFO ] 06-09-2022 11:27:44.723 TC002_LoginTestCase - dashboard page is displayed
+[INFO ] 06-09-2022 11:27:45.677 TC002_LoginTestCase - Survey monkey application is closed
+[INFO ] 06-09-2022 11:37:54.207 TC001_verifyLoginTest - chrome browser is launched
+[INFO ] 06-09-2022 11:37:58.591 TC001_verifyLoginTest - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 11:38:04.281 TC001_verifyLoginTest - login page title is :SurveyMonkey - Log in
+[INFO ] 06-09-2022 11:38:04.281 TC001_verifyLoginTest - login page is opened
+[INFO ] 06-09-2022 11:38:05.210 TC001_verifyLoginTest - Survey monkey application is closed
+[INFO ] 06-09-2022 11:38:06.817 TC002_LoginTestCase - chrome browser is launched
+[INFO ] 06-09-2022 11:38:11.342 TC002_LoginTestCase - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 11:38:17.831 TC002_LoginTestCase - login link is clicked
+[INFO ] 06-09-2022 11:38:27.057 TC002_LoginTestCase - dashboard page is displayed
+[INFO ] 06-09-2022 11:38:28.112 TC002_LoginTestCase - Survey monkey application is closed
+[INFO ] 06-09-2022 05:02:35.598 TC001_verifyLoginTest - chrome browser is launched
+[INFO ] 06-09-2022 05:02:38.145 TC001_verifyLoginTest - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:02:42.522 TC001_verifyLoginTest - login page title is :SurveyMonkey - Log in
+[INFO ] 06-09-2022 05:02:42.724 TC001_verifyLoginTest - screenshot has been captured
+[INFO ] 06-09-2022 05:02:42.724 TC001_verifyLoginTest - login page is opened
+[INFO ] 06-09-2022 05:02:43.477 TC001_verifyLoginTest - Survey monkey application is closed
+[INFO ] 06-09-2022 05:02:44.943 TC002_LoginTestCase - chrome browser is launched
+[INFO ] 06-09-2022 05:02:47.378 TC002_LoginTestCase - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:02:48.611 TC002_LoginTestCase - Survey monkey application is closed
+[INFO ] 06-09-2022 05:04:40.882 TC001_verifyLoginTest - chrome browser is launched
+[INFO ] 06-09-2022 05:04:43.343 TC001_verifyLoginTest - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:04:47.050 TC001_verifyLoginTest - login page title is :SurveyMonkey - Log in
+[INFO ] 06-09-2022 05:04:47.227 TC001_verifyLoginTest - screenshot has been captured
+[INFO ] 06-09-2022 05:04:47.227 TC001_verifyLoginTest - login page is opened
+[INFO ] 06-09-2022 05:04:47.995 TC001_verifyLoginTest - Survey monkey application is closed
+[INFO ] 06-09-2022 05:04:49.528 TC002_LoginTestCase - chrome browser is launched
+[INFO ] 06-09-2022 05:04:52.032 TC002_LoginTestCase - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:04:53.670 TC002_LoginTestCase - Survey monkey application is closed
+[INFO ] 06-09-2022 05:09:44.731 TC001_verifyLoginTest - chrome browser is launched
+[INFO ] 06-09-2022 05:09:47.235 TC001_verifyLoginTest - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:09:51.428 TC001_verifyLoginTest - login page title is :SurveyMonkey - Log in
+[INFO ] 06-09-2022 05:09:51.651 TC001_verifyLoginTest - screenshot has been captured
+[INFO ] 06-09-2022 05:09:51.651 TC001_verifyLoginTest - login page is opened
+[INFO ] 06-09-2022 05:09:52.470 TC001_verifyLoginTest - Survey monkey application is closed
+[INFO ] 06-09-2022 05:09:54.009 TC002_LoginTestCase - chrome browser is launched
+[INFO ] 06-09-2022 05:09:56.663 TC002_LoginTestCase - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:09:58.883 TC002_LoginTestCase - login link is clicked
+[INFO ] 06-09-2022 05:10:05.302 TC002_LoginTestCase - screenshot has been captured
+[INFO ] 06-09-2022 05:10:11.256 TC002_LoginTestCase - dashboard page is displayed
+[INFO ] 06-09-2022 05:10:12.075 TC002_LoginTestCase - Survey monkey application is closed
+[INFO ] 06-09-2022 05:11:00.830 TC001_verifyLoginTest - chrome browser is launched
+[INFO ] 06-09-2022 05:11:03.406 TC001_verifyLoginTest - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:11:07.810 TC001_verifyLoginTest - login page title is :SurveyMonkey - Log in
+[INFO ] 06-09-2022 05:11:08.018 TC001_verifyLoginTest - screenshot has been captured
+[INFO ] 06-09-2022 05:11:08.019 TC001_verifyLoginTest - login page is opened
+[INFO ] 06-09-2022 05:11:08.815 TC001_verifyLoginTest - Survey monkey application is closed
+[INFO ] 06-09-2022 05:11:10.327 TC002_LoginTestCase - chrome browser is launched
+[INFO ] 06-09-2022 05:11:13.923 TC002_LoginTestCase - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:11:14.961 TC002_LoginTestCase - Survey monkey application is closed
+[INFO ] 06-09-2022 05:11:59.585 TC001_verifyLoginTest - chrome browser is launched
+[INFO ] 06-09-2022 05:12:02.251 TC001_verifyLoginTest - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:12:06.333 TC001_verifyLoginTest - login page title is :SurveyMonkey - Log in
+[INFO ] 06-09-2022 05:12:06.583 TC001_verifyLoginTest - screenshot has been captured
+[INFO ] 06-09-2022 05:12:06.584 TC001_verifyLoginTest - login page is opened
+[INFO ] 06-09-2022 05:12:07.353 TC001_verifyLoginTest - Survey monkey application is closed
+[INFO ] 06-09-2022 05:12:08.875 TC002_LoginTestCase - chrome browser is launched
+[INFO ] 06-09-2022 05:12:11.898 TC002_LoginTestCase - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:12:15.617 TC002_LoginTestCase - login link is clicked
+[INFO ] 06-09-2022 05:12:22.143 TC002_LoginTestCase - screenshot has been captured
+[INFO ] 06-09-2022 05:12:28.245 TC002_LoginTestCase - screenshot has been captured
+[INFO ] 06-09-2022 05:12:28.245 TC002_LoginTestCase - dashboard page is displayed
+[INFO ] 06-09-2022 05:12:29.047 TC002_LoginTestCase - Survey monkey application is closed
+[INFO ] 06-09-2022 05:14:37.760 TC001_verifyLoginTest - chrome browser is launched
+[INFO ] 06-09-2022 05:14:38.600 TC001_verifyLoginTest - chrome browser is launched
+[INFO ] 06-09-2022 05:14:41.865 TC001_verifyLoginTest - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:14:43.460 TC001_verifyLoginTest - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:14:45.090 TC001_verifyLoginTest - Survey monkey application is closed
+[INFO ] 06-09-2022 05:14:47.215 TC002_LoginTestCase - chrome browser is launched
+[INFO ] 06-09-2022 05:14:49.977 TC001_verifyLoginTest - login page title is :SurveyMonkey - Log in
+[INFO ] 06-09-2022 05:14:50.280 TC001_verifyLoginTest - screenshot has been captured
+[INFO ] 06-09-2022 05:14:50.282 TC001_verifyLoginTest - login page is opened
+[INFO ] 06-09-2022 05:14:50.976 TC002_LoginTestCase - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:14:51.218 TC001_verifyLoginTest - Survey monkey application is closed
+[INFO ] 06-09-2022 05:14:53.363 TC002_LoginTestCase - chrome browser is launched
+[INFO ] 06-09-2022 05:14:53.487 TC002_LoginTestCase - login link is clicked
+[INFO ] 06-09-2022 05:14:57.032 TC002_LoginTestCase - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:14:59.536 TC002_LoginTestCase - login link is clicked
+[INFO ] 06-09-2022 05:15:00.806 TC002_LoginTestCase - screenshot has been captured
+[INFO ] 06-09-2022 05:15:06.414 TC002_LoginTestCase - screenshot has been captured
+[INFO ] 06-09-2022 05:15:09.038 TC002_LoginTestCase - screenshot has been captured
+[INFO ] 06-09-2022 05:15:09.038 TC002_LoginTestCase - dashboard page is displayed
+[INFO ] 06-09-2022 05:15:10.229 TC002_LoginTestCase - Survey monkey application is closed
+[INFO ] 06-09-2022 05:15:14.229 TC002_LoginTestCase - screenshot has been captured
+[INFO ] 06-09-2022 05:15:14.229 TC002_LoginTestCase - dashboard page is displayed
+[INFO ] 06-09-2022 05:15:15.089 TC002_LoginTestCase - Survey monkey application is closed
+[INFO ] 06-09-2022 05:20:48.356 TC001_verifyLoginTest - chrome browser is launched
+[INFO ] 06-09-2022 05:20:50.820 TC001_verifyLoginTest - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:20:55.354 TC001_verifyLoginTest - login page title is :SurveyMonkey - Log in
+[INFO ] 06-09-2022 05:20:55.525 TC001_verifyLoginTest - screenshot has been captured
+[INFO ] 06-09-2022 05:20:55.526 TC001_verifyLoginTest - login page is opened
+[INFO ] 06-09-2022 05:20:56.287 TC001_verifyLoginTest - Survey monkey application is closed
+[INFO ] 06-09-2022 05:20:57.743 TC002_LoginTestCase - chrome browser is launched
+[INFO ] 06-09-2022 05:21:00.798 TC002_LoginTestCase - Survey monkey application is launched successfully
+[INFO ] 06-09-2022 05:21:02.018 TC002_LoginTestCase - Survey monkey application is closed
