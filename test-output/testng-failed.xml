@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [regressionSuite]">
-  <parameter name="browserName" value="chrome"/>
-  <listeners>
-    <listener class-name="com.surveyMonkey.Utilities.ExtentReportManager"/>
-  </listeners>
-  <test thread-count="5" name="TC002_LoginTestCase(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.surveyMonkey.TestCase.TC002_LoginTestCase">
+      <class name="goRestApiProject.TC001_getCommand">
         <methods>
-          <include name="teardown"/>
           <include name="setup"/>
-          <include name="logintest"/>
+          <include name="createUser"/>
         </methods>
-      </class> <!-- com.surveyMonkey.TestCase.TC002_LoginTestCase -->
+      </class> <!-- goRestApiProject.TC001_getCommand -->
     </classes>
-  </test> <!-- TC002_LoginTestCase(failed) -->
-</suite> <!-- Failed suite [regressionSuite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
